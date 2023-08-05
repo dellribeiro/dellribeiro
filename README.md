@@ -2,10 +2,11 @@
 
 <div align="center">
 <img alt="Coding meme" height="280" src="https://media.licdn.com/dms/image/C4D12AQEyH4W0_3_8Lg/article-cover_image-shrink_600_2000/0/1617887567803?e=2147483647&v=beta&t=US7cTRcTMUhceakszySvF92nXvU6eLT_qhaaiUcAjTY">
-</div>
+
 
 
 ## 👨🏽‍💻 Aboult Me:
+</div>
 
 ```java
  import java.util.ArrayList;
